@@ -23,7 +23,7 @@
     "fusioncharts": "^3.12.2",
     "material-ui-image": "^3.0.0",
     "react": "^16.3.2",
-    "react-dom": "^16.3.2",
+    "react-dom": "^16.3.3",
     "react-fusioncharts": "^1.0.5",
     "react-popper": "^0.10.4",
     "react-redux": "^5.0.7",
